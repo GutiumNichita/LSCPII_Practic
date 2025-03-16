@@ -1,4 +1,4 @@
 
-# LSCPII. Lucrarile de laborator si Lucrul Individual
+# LSCPII.Lucrul Individual
 
-Aici este amplasat materialul cu lucrarile de laborator si lucrul individual.
+Aici este amplasat materialul cu lucrul individual.
